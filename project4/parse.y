@@ -1,8 +1,6 @@
 /*                                                                                                                            
 *Filename    parse.y                                                                                                         
-*Date        4/9/2021                                                                                                        
-*Author      Brianna Murray                                                                                                  
-*Email       bnm180003@utdallas.edu                                                                                          *Version      1.0                                                                                                             
+*Date        4/9/2021                                                                                                       *Version      1.0                                                                                                             
 *Copyright   2021, All Rights Reserved                                                                                       
 *                                                                                                                            
 *Description                                                                                                                 

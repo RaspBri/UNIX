@@ -1,8 +1,6 @@
 /*                                                                                                                             
  Filename    scan.l                                                                                                           
- Date        4/9/2021                                                                                                         
- Author      Brianna Murray                                                                                                   
- Email       bnm180003@utdallas.edu                                                                                           
+ Date        4/9/2021                                                                                                      
  Version     1.0                                                                                                              
  Copyright   2021, All Rights Reserved                                                                                                                                                                                                                  
  Description                                                                                                                                                                                                                                                 Scan file containting tokens and regular expressions                                                                     

@@ -1,0 +1,42 @@
+No arguments passes
+argc: 1
+BACK INSIDE MAIN
+
+Arguments:
+1. one
+2. two
+argc: 3
+BACK INSIDE MAIN
+
+Arguments:
+1. two
+argc: 2
+BACK INSIDE MAIN
+
+Arguments:
+1. cheese
+2. steak
+3. expo
+4. marker
+5. rainbow
+6. palm
+7. tree
+argc: 8
+BACK INSIDE MAIN
+
+Arguments:
+1. file
+2. compile
+3. style
+4. aisle
+5. bile
+6. trial
+7. while
+8. mile
+9. kyle
+10. smile
+11. vile
+12. dial
+argc: 13
+BACK INSIDE MAIN
+

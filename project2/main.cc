@@ -1,8 +1,6 @@
 /*
 *Filename 	main
 *Date		2/4/21
-*Author		Brianna Murray
-*Course		CS 3377.0W6
 *Version	1.0
 *Copyright	2021, All Rights Reserved
 *

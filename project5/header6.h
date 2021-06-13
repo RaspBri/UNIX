@@ -1,7 +1,5 @@
 //Filename header6.h
 //Date 5/9/21
-//Author Brianna Murray
-//Email bnm180003@utdallas.edu
 //Version 1.0
 //Copyright 2021, All Rights Reserved
 // Description 

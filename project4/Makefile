@@ -1,12 +1,11 @@
 #!/usr/bin/make -f
                                                                                                                              
 #Filename    Makefile                                                                                                         
-#Date        4/9/2021                                                                                                         
-#Author      Brianna Murray                                                                                                   
-#Email       bnm180003@utdallas.edu                                                                                           
+#Date        4/9/2021                                                                                                   
 #Version     1.0                                                                                                              
 #Copyright   2021, All Rights Reserved                                                                                        
-#Description                                                                                                                  #Make file compiles program along with creating back up file when called, can also clean files                                                                    
+#Description                                                                                                                  
+#Make file compiles program along with creating back up file when called, can also clean files                                                                    
 
 CC = gcc
 CCFLAGS = -Werror

@@ -17,7 +17,7 @@ LFLAGS =
 YACC = /bin/bison
 YFLAGS = -dy
 
-PROJECTNAME = CS3377.Program5
+PROJECTNAME = Program5
 
 EXECFILE = program5
 
